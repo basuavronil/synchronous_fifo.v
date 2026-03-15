@@ -1,5 +1,4 @@
-# synchronous_fifo.v
-# Synchronous FIFO
+# Synchronous FIFO.v
 
 This project implements a **Synchronous FIFO (First-In First-Out) memory buffer in Verilog**. A FIFO is a data structure where the **first data written into the buffer is the first data to be read out**.
 
